@@ -67,8 +67,6 @@ def blinkyFile():
 def main():
     #blinkyFile()
     play()
-    #time.sleep(30)
-    #playSong(0
 
 main()
 
